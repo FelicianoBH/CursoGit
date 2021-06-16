@@ -106,7 +106,7 @@
 		
 			<div id="usuario">
 				
-				<h5>AlceSO RESTRINGIDO A USUARIOS DE LA ORGANIZACION</h5>
+				<h5>AlceSO RESTRINGIDO A USUARIOS DE LA OlGANIZACION</h5>
 			
 				<h2> Introduzca sus datos</h2>
 					<form action="comprueba_login.php" method="post">
