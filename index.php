@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ARNET</title>  
+	<title>ARNETeee </title>  
 	<link rel="stylesheet" href="normalize.css">
 	<link rel="shortcut icon" type="image/png" href="arnetico.png">
 	<style type="text/css">
